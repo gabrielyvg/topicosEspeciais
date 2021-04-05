@@ -1,0 +1,5 @@
+//variavel pode receber uma função inteira não apenas um resultado
+// 1 maneira
+const funcao = function(){
+    return "Teste";
+}
